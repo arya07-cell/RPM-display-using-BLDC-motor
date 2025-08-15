@@ -103,11 +103,11 @@ Short demo video or GIF
 
 ## 👤 Author
 
-Arya Kadukar
-Final Year Engineering Student
-Sinhgad Academy of Engineering
-Skills: Embedded Systems, C Programming, Microcontrollers, Electronics
+### Arya Kadukar
+### Final Year Engineering Student
+### Sinhgad Academy of Engineering
+### Skills: Embedded Systems, C Programming, Microcontrollers, Electronics
 
-📝 License
+## 📝 License
 
 This project is open-source and intended for educational use only. You may modify and use it freely for learning purposes.
